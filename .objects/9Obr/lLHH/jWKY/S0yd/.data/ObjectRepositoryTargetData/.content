@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jknQXfK0RUqDayi6e7QrbQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="astrologyfutureeye.com/zodiac/aries-sign" DesignTimeRectangle="169, 441, 1581, 152" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='main' tag='P' /&gt;" Guid="42776189-34ca-44a6-997e-b8d773a5edca" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Aries Horoscope Predictions | Strength &amp;amp; Weakness of Aries' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="53ec3f84eae9cd5e01b0b6f5681f7b93.jpg" xmlns="">0gsA8siiL_k2gn9pnBHp-1A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

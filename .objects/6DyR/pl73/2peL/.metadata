@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Online Shopping for Women, Men, Kids F",
+  "Type": "Screen",
+  "Id": "2peLbrUr8UKB5Vv04yBSEA",
+  "Reference": "BYPz4_8nUE-3Dbui1XxcxA/2peLbrUr8UKB5Vv04yBSEA",
+  "ParentRef": "BYPz4_8nUE-3Dbui1XxcxA/pl732JwuOEenzqMbg38t8Q",
+  "Created": "2026-09-27T07:06:28.3617593Z",
+  "Updated": "2026-09-27T07:06:28.3617593Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

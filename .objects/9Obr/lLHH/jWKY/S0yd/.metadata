@@ -1,0 +1,14 @@
+﻿{
+  "Name": "The Aries sign is the f…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "S0ydz-f89E-XDjd5FQJGwA",
+  "Reference": "BYPz4_8nUE-3Dbui1XxcxA/S0ydz-f89E-XDjd5FQJGwA",
+  "ParentRef": "BYPz4_8nUE-3Dbui1XxcxA/jWKYOiZyP0ykxGYZ-UlZtw",
+  "Created": "2026-09-27T06:29:42.2279694Z",
+  "Updated": "2026-09-27T06:29:42.2279694Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
